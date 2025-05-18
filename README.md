@@ -52,20 +52,6 @@ Kodlike é um jogo roguelike, feito para o desafio prático de python da Kodland
         * `images/`: Para colocar todos os arquivos de imagem (sprites do herói, inimigos, tiles).
         * `music/`: Para colocar o arquivo de música de fundo.
 
-    **Assets Necessários:**
-
-    * **Na pasta `images/`:**
-        * `hero_idle_0.png` a `hero_idle_3.png` (sprites do herói parado)
-        * `hero_move_0.png` a `hero_move_3.png` (sprites do herói andando)
-        * `enemy_idle_0.png` a `enemy_idle_3.png` (sprites do inimigo parado)
-        * `enemy_move_0.png` a `enemy_move_3.png` (sprites do inimigo andando)
-        * `floor_tile.png` (sprite do tile de chão)
-        * `wall_tile.png` (sprite do tile de parede)
-        *(Nota: Os nomes dos arquivos de imagem devem corresponder exatamente aos definidos no código.)*
-
-    * **Na pasta `music/`:**
-        * `background.ogg` ou `background.mp3` (ou outro formato suportado pelo Pygame). O nome base "background" é usado no código.
-
 5.  **Execute o Jogo:**
     * Navegue até a pasta do projeto no seu terminal ou prompt de comando.
     * Execute o jogo com o seguinte comando:
